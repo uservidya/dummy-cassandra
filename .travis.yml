@@ -6,4 +6,4 @@ before_install:
 
 jdk:
   - openjdk7
-  - oraclejdk7
+  
